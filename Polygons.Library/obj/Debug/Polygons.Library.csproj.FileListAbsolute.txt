@@ -1,0 +1,5 @@
+c:\Users\VVibhute\documents\visual studio 2015\Projects\Polygons\Polygons.Library\bin\Debug\Polygons.Library.dll
+c:\Users\VVibhute\documents\visual studio 2015\Projects\Polygons\Polygons.Library\bin\Debug\Polygons.Library.pdb
+c:\Users\VVibhute\documents\visual studio 2015\Projects\Polygons\Polygons.Library\obj\Debug\Polygons.Library.csprojResolveAssemblyReference.cache
+c:\Users\VVibhute\documents\visual studio 2015\Projects\Polygons\Polygons.Library\obj\Debug\Polygons.Library.dll
+c:\Users\VVibhute\documents\visual studio 2015\Projects\Polygons\Polygons.Library\obj\Debug\Polygons.Library.pdb
